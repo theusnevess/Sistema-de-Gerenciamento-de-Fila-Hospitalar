@@ -1,6 +1,6 @@
 # 🏥 Sistema de Gerenciamento de Fila Hospitalar (Python)
 
-Sistema de fila de espera hospitalar com priorização automática usando lista encadeada em Python. Gerencia pacientes com cartões **verdes (urgentes)** e **amarelos (não urgentes)** com numeração sequencial distinta.
+Sistema de fila de espera hospitalar com priorização automática usando lista encadeada em Python. Gerencia pacientes com cartões **verdes (não urgentes)** e **amarelos (urgentes)** com numeração sequencial distinta.
 
 ## 📋 Funcionalidades
 
