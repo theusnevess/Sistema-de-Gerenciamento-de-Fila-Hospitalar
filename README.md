@@ -20,7 +20,7 @@ Sistema de fila de espera hospitalar com priorização automática usando lista 
 
 ## ⚙️ Estrutura do Código
 
-```
+```python
 .
 ├── ElementoDaListaSimples       # Classe do nó (paciente)
 │   ├── numero                   # Número do cartão
@@ -46,7 +46,7 @@ Escolher: [1-4]
 
 ## 📌 Exemplo de Uso 
 
-```
+```python
 
 >>> Adicionar paciente (opção 1)
 Digite a cor do cartão (V para verde e A para amarelo): V
